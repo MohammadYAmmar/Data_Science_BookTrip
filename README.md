@@ -4,5 +4,7 @@ The trip for Data Science 3rd edition for dummies
 | Progress | Date      |
 | -------- | --------- |
 | 1-4      | 23-4-2023 |
-|          |           |
+| 4-9      | 24-4-2023 |
+| 9-11     | 25-4-2023 |
+
 
