@@ -17,7 +17,8 @@ The trip for Data Science 3rd edition for dummies
 | Review             | 04-5-2023 |
 | 51-55 [Ch of Math] | 05-5-2023 |
 | 55-64              | 06-5-2023 |
+| 64-67              | 07-5-2023 |
 
-Progress day: 14
+Progress day: 15
 
 
