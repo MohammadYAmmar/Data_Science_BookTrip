@@ -19,7 +19,8 @@ The trip for Data Science 3rd edition for dummies
 | 55-64              | 06-5-2023 |
 | 64-67              | 07-5-2023 |
 | 67-69 [Kaggle Tip] | 08-5-2023 |
+| 69-77 [Finish Ch4] | 09-5-2023 |
 
-Progress day: 16
+Progress day: 17
 
 
