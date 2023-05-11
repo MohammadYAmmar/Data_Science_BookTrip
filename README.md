@@ -14,14 +14,15 @@ The trip for Data Science 3rd edition for dummies
 | 42-43              | 01-5-2023 |
 | 43-43              | 02-5-2023 |
 | 43-51 [Finish Ch3] | 03-5-2023 |
-| Review             | 04-5-2023 |
+| Review 1           | 04-5-2023 |
 | 51-55 [Ch of Math] | 05-5-2023 |
 | 55-64              | 06-5-2023 |
 | 64-67              | 07-5-2023 |
 | 67-69 [Kaggle Tip] | 08-5-2023 |
 | 69-77 [Finish Ch4] | 09-5-2023 |
-| Review             | 10-5-2023 |
+| Review 2           | 10-5-2023 |
+| 77-82              | 11-5-2023 |
 
-Progress day: 18
+Progress day: 19
 
 
