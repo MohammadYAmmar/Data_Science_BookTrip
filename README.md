@@ -22,7 +22,8 @@ The trip for Data Science 3rd edition for dummies
 | 69-77 [Finish Ch4] | 09-5-2023 |
 | Review 2           | 10-5-2023 |
 | 77-82              | 11-5-2023 |
+| 82-87              | 12-5-2023 |
 
-Progress day: 19
+Progress day: 20
 
 
